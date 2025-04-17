@@ -69,7 +69,11 @@ This project is designed to evaluate how modern black-box optimization (AutoML),
 ##  How to Use
 
 !pip install jupyter_dash
+
 from jupyter_dash import JupyterDash
+
 app = JupyterDash(__name__)
+
 [Define your layout here] ( You can use given models, data and scalar )
+
 app.run_server(mode='inline')  # or mode='external'
