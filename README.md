@@ -1,14 +1,16 @@
-# ⛽ Petrol Price Forecasting Dashboard
+# ⛽ Petrol Price Forecasting Dashboard using AUTOKeras, ARIMA, LSTM models
 
-
-A predictive dashboard that compares LSTM, ARIMA, and AutoML (AutoKeras) models to forecast weekly U.S. petrol prices across three fuel types (`A1`, `R1`, `D1`) using deep learning and time series techniques.
 ![Untitled design (1)](https://github.com/user-attachments/assets/291ad883-9706-457f-a00a-a4fe26f180df)
+
+
+
+### A predictive analytics dashboard that benchmarks and visualizes the performance of three cutting-edge modeling approaches—AutoML (AutoKeras), deep learning (LSTM neural networks), and traditional time series modeling (ARIMA)—to forecast weekly U.S. petrol prices across three fuel types (A1, R1, D1).
 
 ---
 
 ##  Project Overview
+This project is designed to evaluate how modern black-box optimization (AutoML), sequence-aware neural architectures (Bidirectional LSTM), and classical statistical forecasting (ARIMA) perform on real-world, multi-output time series data. By comparing model accuracy, prediction stability, and error patterns, the dashboard provides insight into model selection trade-offs for time series forecasting in production-grade pipelines.
 
-This project explores multivariate petrol price forecasting using historical fuel price data. It demonstrates how to handle real-world time series, apply model-driven forecasting, and visualize results through an interactive dashboard built with Plotly Dash.
 
 ---
 
