@@ -6,13 +6,13 @@ A predictive dashboard that compares LSTM, ARIMA, and AutoML (AutoKeras) models 
 
 ---
 
-## 🧩 Project Overview
+##  Project Overview
 
 This project explores multivariate petrol price forecasting using historical fuel price data. It demonstrates how to handle real-world time series, apply model-driven forecasting, and visualize results through an interactive dashboard built with Plotly Dash.
 
 ---
 
-## 🔑 Key Features & Challenges
+##  Key Features & Challenges
 
 -  **Multivariate Forecasting** for A1, R1, D1 grades  
 -  **LSTM**, **ARIMA**, and **AutoKeras** model comparison  
@@ -23,7 +23,7 @@ This project explores multivariate petrol price forecasting using historical fue
 
 ---
 
-## ⚙️ Technical Implementation
+##  Technical Implementation
 
 - **Languages & Frameworks**: Python, TensorFlow/Keras, scikit-learn, statsmodels, AutoKeras, Plotly, Dash  
 - **Key Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Joblib  
@@ -39,7 +39,7 @@ This project explores multivariate petrol price forecasting using historical fue
 
 ---
 
-## ▶️ Project Workflow
+##  Project Workflow
 
 1. Load and clean fuel price dataset  
 2. Handle missing values and outliers  
@@ -53,7 +53,7 @@ This project explores multivariate petrol price forecasting using historical fue
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 - Deployed a full forecasting pipeline from EDA to visualization  
 - Integrated traditional, deep learning, and AutoML methods  
@@ -63,7 +63,7 @@ This project explores multivariate petrol price forecasting using historical fue
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 !pip install jupyter_dash
 from jupyter_dash import JupyterDash
