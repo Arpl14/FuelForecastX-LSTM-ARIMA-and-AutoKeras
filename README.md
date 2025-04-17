@@ -57,7 +57,8 @@ This project is designed to evaluate how modern black-box optimization (AutoML),
 
 ##  Achievements
 
-- Deployed a full forecasting pipeline from EDA to visualization  
+- Deployed a full forecasting pipeline from EDA to visualization
+- Saved all preprocessed datasets, scalers, and models—making the solution fully deployable and reproducible
 - Integrated traditional, deep learning, and AutoML methods  
 - Created a clean, responsive dashboard with Plotly Dash  
 - Conducted multi-model evaluation with error visualization  
@@ -70,5 +71,5 @@ This project is designed to evaluate how modern black-box optimization (AutoML),
 !pip install jupyter_dash
 from jupyter_dash import JupyterDash
 app = JupyterDash(__name__)
-# [Define your layout here] ( You can use given models, data and scalar )
+[Define your layout here] ( You can use given models, data and scalar )
 app.run_server(mode='inline')  # or mode='external'
