@@ -37,7 +37,7 @@ This project is designed to evaluate how modern black-box optimization (AutoML),
   - AutoML Regression using AutoKeras
   - Forecast vs Actual Comparison
   - Model Evaluation & Residual Tracking
-- **ATS Keywords**: Time Series Forecasting, LSTM, ARIMA, AutoML, Deep Learning, TensorFlow, Dashboarding, Data Visualization, Python, Plotly Dash, Model Evaluation
+- **Technologies**: Time Series Forecasting, LSTM, ARIMA, AutoML, Deep Learning, TensorFlow, Dashboarding, Data Visualization, Python, Plotly Dash, Model Evaluation
 
 ---
 
